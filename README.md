@@ -5,10 +5,12 @@ Analysis was performed on kickstarter crowdfunding data to uncover trends and de
 
 ## Analysis and Challenges
 
+Analysis was performed by creating a pivot table and chart to examine the outcome of theater kickstarters based on the launch date as well as the outcome of kickstarters from the play subcategory based on monetary goals. The main challenge that I encountered was trying to create pivot charts on a Mac, where the chart elements and design tab were not available. After switching to a PC, I was able to complete all of the necessary steps in order to complete the assignment.
+
+### Charts
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/60076980/147240461-b1e783ff-1529-41c9-9623-cc6edbd75c2b.png)
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/60076980/147471797-0b5009f0-97e2-4f7b-8bb7-6797c9f0f92e.png)
 
-
 ## Results
-Analysis showed that theater kickstarters that were launched in May and June had the most successful outcomes. Theater kickstarters that were launched in December had the lowest success rate. 
-Kickstarters that had a goal greater than 50,000 had a fail rate of 99%. Most kickstarter projects had a goal between 1000 and 4999 and the success rate for those projects was 73%.
+Analysis showed that theater kickstarters that were launched in May and June had the most successful outcomes. Theater kickstarters that were launched in December had the lowest success rate.  
+Kickstarters that had a goal greater than 50,000 had a fail rate of 99%. Of the kickstarter projects in the plays subcategory 39% had a goal between 1000 and 4999 and the success rate for those projects was 73%.
