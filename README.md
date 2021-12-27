@@ -6,7 +6,8 @@ Analysis was performed on kickstarter crowdfunding data to uncover trends and de
 ## Analysis and Challenges
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/60076980/147240461-b1e783ff-1529-41c9-9623-cc6edbd75c2b.png)
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/60076980/147240497-ab7a426f-e5b2-4854-a1c0-6d520d69fe15.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/60076980/147471797-0b5009f0-97e2-4f7b-8bb7-6797c9f0f92e.png)
+
 
 ## Results
 Analysis showed that theater kickstarters that were launched in May and June had the most successful outcomes. Theater kickstarters that were launched in December had the lowest success rate. 
