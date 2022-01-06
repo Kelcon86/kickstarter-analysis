@@ -14,7 +14,8 @@ Analysis was performed by creating a pivot table and chart to examine the outcom
 ### Analysis of Outcome Based on Launch Date
 In order to determine the outcome of theater campaigns based on the launch date we first created a years column in the Kickstarter spreadsheet. We then created a pivot table labeled "Theater Outcomes by Launch Date and filtered the table on "Parent Category" and "Years". The row labels were changed to display the months of the year and campaign outcomes were sorted in descending order. A line chart was then created to show the number of successful, failed and canceled projects by month.
 
-![PivotTable](https://user-images.githubusercontent.com/60076980/148302719-06009a2a-e3b5-4511-92f2-e909451a77ad.png)
+![PivotTable](https://user-images.githubusercontent.com/60076980/148307384-971d8a2f-4297-4e07-8c32-f2fb3e153c46.png)
+
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/60076980/147240461-b1e783ff-1529-41c9-9623-cc6edbd75c2b.png)
 
 ### Analysis of Outcomes Based on Goals
